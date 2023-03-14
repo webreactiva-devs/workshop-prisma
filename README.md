@@ -177,13 +177,21 @@ En consola ejecuta esto:
 
 `npx prisma generate`
 
+
+Y luego la migración (ya veremos que es esto) para que se genere en tu base de datos tablas y campos:
+
+`npx prisma migrate dev --name init`
+
 Si ha ido todo bien tendrás este mensaje en pantalla:
 
 ```bash
 Environment variables loaded from .env
 Prisma schema loaded from prisma/schema.prisma
+Datasource "db": SQLite database "dev.db" at "file:./dev.db"
 
-✔ Generated Prisma Client (4.11.0 | library) to ./node_modules/@prisma/client in 343ms
+Applying migration `20230314194438_init`
+
+The following migration(s) have been created and applied from new schema changes:
 ```
 
 
