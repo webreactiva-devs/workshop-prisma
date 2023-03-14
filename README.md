@@ -19,7 +19,11 @@ Prisma es un ORM (Object-Relational Mapping) de código abierto basado en JavaSc
 
 - **Compatibilidad multiplataforma**: Prisma es compatible con varias bases de datos populares, como MySQL, PostgreSQL y SQLite, así como otras noSQL como MongoDB.
 
+👉 [¿Qué es un ORM?](https://www.youtube.com/watch?v=pKawc1UtVcQ) En 7 minutos
 ㅤ
+👉 [Prisma en 100 segundos](https://www.youtube.com/watch?v=rLRIB6AF2Dg)
+
+
 
 ## 🔎 Objetivos prácticos
 - Dedicar algo más de 60 minutos a aprender las bases de la librería
