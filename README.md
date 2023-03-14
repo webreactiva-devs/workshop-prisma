@@ -1,5 +1,6 @@
 > Taller en directo con suscriptores de Web Reactiva para conocer las características principales de Prisma.
 
+![cover-workshop-prisma](https://user-images.githubusercontent.com/1122071/225116136-ee2857f9-9941-42ba-a1a9-259fc413ee9f.png)
 
 
 ㅤ
