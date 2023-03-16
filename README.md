@@ -202,4 +202,10 @@ The following migration(s) have been created and applied from new schema changes
 
 
 
-**¡Estas listoa para empezar!** 🥳
+**¡Estas listo/a para empezar!** 🥳
+
+>>> Vete al primer paso [ex01](https://github.com/webreactiva-devs/workshop-prisma/blob/main/steps/ex01.md)
+
+
+
+
